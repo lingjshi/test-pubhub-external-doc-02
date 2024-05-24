@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "title": "Overview",
+      "items": [
+        {
+          "title": "Introduction",
+          "content": "intro.md"
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "items": [
+        {
+          "title": "Postman - Testing Tool",
+          "content": "https://documenter.getpostman.com/view/897512/71FUpux",
+          "type": "url"
+        },
+        {
+          "title": "NodeJS Receiver",
+          "content": "https://github.com/dexterlabora/cmxreceiver",
+          "type": "url"
+        },
+        {
+          "title": "Google Firebase",
+          "content": "https://github.com/dexterlabora/MerakiLocationFirebase",
+          "type": "url"
+        }
+      ]
+    }
+  ]
+}
